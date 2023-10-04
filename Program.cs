@@ -1,2 +1,3 @@
 ﻿Console.WriteLine("Hej på er!!");
 Console.WriteLine("Menaid");
+Console.WriteLine("A new line from class branch");
